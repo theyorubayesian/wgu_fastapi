@@ -28,7 +28,7 @@ print(response.status_code, response.text)
 selection or deselection of users/customers.
 
 ## Data
-The publicly available `Census Bureau` dataset is used in this work. Features included are;
+The publicly available `Census Bureau` dataset is used in this work. Features included are:
 - age
 - capital-gain
 - capital-loss
